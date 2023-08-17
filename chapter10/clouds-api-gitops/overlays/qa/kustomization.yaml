@@ -4,7 +4,7 @@ kind: Kustomization
 commonLabels:
   environment: qa
 
-namespace: clouds-api-qa1
+namespace: clouds-api-qa
 
 bases:
   - ../../base
