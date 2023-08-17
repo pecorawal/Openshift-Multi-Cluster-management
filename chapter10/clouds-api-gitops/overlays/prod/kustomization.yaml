@@ -4,7 +4,7 @@ kind: Kustomization
 commonLabels:
   environment: prod
 
-namespace: clouds-api-prod
+namespace: clouds-api-prod1
 
 bases:
   - ../../base
